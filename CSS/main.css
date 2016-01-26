@@ -1,0 +1,17 @@
+div {
+	width: 200px;
+	height: auto;
+	border: 15px solid yellow;
+	padding: 10px 10px;
+	margin: auto;
+}
+p {
+	text-align: center;
+}
+.CajaIzquierda {
+	float: left;
+	}
+.CajaDerecha {
+	float: none;
+	clear: both;
+}
